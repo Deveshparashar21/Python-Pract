@@ -1,0 +1,6 @@
+2026-02-20 15:40:59,695 - INFO - Calculating character frequency
+2026-02-20 15:40:59,695 - INFO - Character frequency calculated: {'p': 1, 'r': 2, 'o': 1, 'g': 2, 'a': 1, 'm': 2, 'i': 1, 'n': 1}
+2026-02-20 15:41:13,287 - INFO - Counting vowels in the string
+2026-02-20 15:41:13,287 - INFO - Vowel count calculated: 3
+2026-02-20 17:10:23,086 - INFO - Finding second largest element
+2026-02-20 17:10:23,100 - INFO - Largest: 99, Second Largest: 45
