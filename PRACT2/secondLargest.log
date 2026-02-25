@@ -1,0 +1,25 @@
+2026-02-20 21:09:41,575 - INFO - Finding second largest element
+2026-02-20 21:09:41,576 - INFO - Largest: 99, Second Largest: 45
+2026-02-20 21:10:12,613 - INFO - Finding second largest element
+2026-02-20 21:10:12,613 - INFO - Largest: 99, Second Largest: 45
+2026-02-20 21:10:35,758 - INFO - Finding second largest element
+2026-02-20 21:10:35,759 - INFO - Largest: 99, Second Largest: 45
+2026-02-20 21:12:28,345 - INFO - Checking if list is sorted in ascending order
+2026-02-20 21:12:28,345 - INFO - List is sorted
+2026-02-20 21:12:44,111 - INFO - Checking if list is sorted in ascending order
+2026-02-20 21:12:44,112 - INFO - List is sorted
+2026-02-20 21:12:55,250 - INFO - Checking if list is sorted in ascending order
+2026-02-20 21:12:55,251 - INFO - List is NOT sorted
+2026-02-20 21:19:14,054 - INFO - Reversing the string
+2026-02-20 21:19:14,054 - INFO - Reversed string: dlroW olleH
+2026-02-20 21:19:39,123 - INFO - Reversing the string
+2026-02-20 21:19:39,123 - INFO - Reversed string: dlroW olleH
+2026-02-20 21:24:28,859 - INFO - Removing duplicates while preserving order
+2026-02-20 21:24:28,861 - INFO - List after removing duplicates: [1, 2, 3, 4, 5]
+2026-02-20 21:24:40,932 - INFO - Removing duplicates while preserving order
+2026-02-20 21:24:40,933 - INFO - List after removing duplicates: [1, 2, 3, 4, 5]
+2026-02-20 21:25:39,578 - INFO - Checking if list is sorted in ascending order
+2026-02-20 21:25:39,579 - INFO - List is NOT sorted
+2026-02-20 21:53:29,849 - INFO - Finding the missing number in the list
+2026-02-20 21:53:55,703 - INFO - Finding the missing number in the list
+2026-02-20 21:53:55,703 - INFO - The missing VAlue is 4
